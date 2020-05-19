@@ -1,0 +1,40 @@
+[
+  {
+    "code": "104",
+    "name": "自营仓管理",
+    "path": "print",
+    "children": [
+      {
+        "code": "10401",
+        "name": "调拨入库管理",
+        "path": "printBuyIn",
+        "self": true
+      },
+      {
+        "code": "10402",
+        "name": "调拨出库管理",
+        "path": "printBuyOut",
+        "self": true
+
+      },
+      {
+        "code": "10403",
+        "name": "采购入库管理",
+        "path": "purchaseIn",
+        "self": true
+      },
+      {
+        "code": "10404",
+        "name": "订单出库管理",
+        "path": "orderOutManage",
+        "self": true
+      },
+      {
+        "code": "10405",
+        "name": "库存查询",
+        "path": "stockSearch",
+        "self": true
+      }
+    ]
+  }
+]
